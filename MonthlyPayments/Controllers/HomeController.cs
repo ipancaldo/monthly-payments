@@ -26,11 +26,11 @@ namespace MonthlyPayments.Controllers
             }
         }
 
-        public async Task<IActionResult> UpdatePayment(string quantity)
+        public async Task<IActionResult> UpdatePayment(string quantity, bool isCreditCard)
         {
             try
             {
-                await _groceryService.UpdatePayment(quantity);
+                await _groceryService.UpdatePayment(quantity, isCreditCard);
                 return RedirectToAction("Index");
             }
             catch (Exception ex)

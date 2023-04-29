@@ -6,6 +6,6 @@ namespace MonthlyPayments.Service
     {
         Task<Grocery> GetGroceryResume();
 
-        Task UpdatePayment(string quantity);
+        Task UpdatePayment(string quantity, bool isCreditCard);
     }
 }

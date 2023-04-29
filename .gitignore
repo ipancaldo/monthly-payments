@@ -1,0 +1,4 @@
+MonthlyPayments\bin\
+MonthlyPayments.Domain\bin\
+MonthlyPayments.FirebaseRepository\bin\
+MonthlyPayments.Service\bin\

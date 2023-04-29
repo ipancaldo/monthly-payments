@@ -16,9 +16,11 @@ namespace MonthlyPayments.Service
             return await _groceryRepository.GetGroceryResume();
         }
 
-        public async Task UpdatePayment(string quantity)
+        public async Task UpdatePayment(string quantity, bool isCreditCard)
         {
-            await _groceryRepository.UpdatePayment(decimal.Parse(quantity));
+            var groceryResume = await GetGroceryResume();
+            groceryResume.UpdateGrocery(new Grocery(decimal.Parse(quantity), isCreditCard));            
+            await _groceryRepository.UpdatePayment(groceryResume);
         }
     }
 }

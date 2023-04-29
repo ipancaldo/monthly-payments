@@ -6,6 +6,6 @@ namespace MonthlyPayments.FirebaseRepository
     {
         Task<Grocery> GetGroceryResume();
 
-        Task UpdatePayment(decimal quantity);
+        Task UpdatePayment(Grocery groceryResume);
     }
 }

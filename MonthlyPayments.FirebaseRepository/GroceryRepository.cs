@@ -19,10 +19,9 @@ namespace MonthlyPayments.FirebaseRepository
             return await _firebaseClient.Child("grocery").OnceSingleAsync<Grocery>();
         }
 
-        public async Task UpdatePayment(decimal quantity)
+        public async Task UpdatePayment(Grocery groceryResume)
         {
-            var grocerySnapshot = await _firebaseClient.Child("grocery").OnceSingleAsync<Grocery>();
-            await _firebaseClient.Child("grocery").PutAsync(JsonConvert.SerializeObject(new Grocery { TotalSpent = grocerySnapshot.TotalSpent + quantity}));
+            await _firebaseClient.Child("grocery").PutAsync(JsonConvert.SerializeObject(groceryResume));
         }
     }
 }
