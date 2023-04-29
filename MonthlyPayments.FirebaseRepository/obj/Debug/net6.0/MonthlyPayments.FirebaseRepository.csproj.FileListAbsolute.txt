@@ -1,0 +1,15 @@
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\bin\Debug\net6.0\MonthlyPayments.FirebaseRepository.deps.json
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\bin\Debug\net6.0\MonthlyPayments.FirebaseRepository.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\bin\Debug\net6.0\MonthlyPayments.FirebaseRepository.pdb
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\bin\Debug\net6.0\MonthlyPayments.Domain.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\bin\Debug\net6.0\MonthlyPayments.Domain.pdb
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.AssemblyInfo.cs
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.csproj.CopyComplete
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\refint\MonthlyPayments.FirebaseRepository.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\MonthlyPayments.FirebaseRepository.pdb
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.FirebaseRepository\obj\Debug\net6.0\ref\MonthlyPayments.FirebaseRepository.dll

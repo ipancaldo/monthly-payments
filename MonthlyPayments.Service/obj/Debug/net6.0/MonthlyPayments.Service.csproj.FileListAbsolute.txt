@@ -1,0 +1,17 @@
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\bin\Debug\net6.0\MonthlyPayments.Service.deps.json
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\bin\Debug\net6.0\MonthlyPayments.Service.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\bin\Debug\net6.0\MonthlyPayments.Service.pdb
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\bin\Debug\net6.0\MonthlyPayments.Domain.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\bin\Debug\net6.0\MonthlyPayments.FirebaseRepository.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\bin\Debug\net6.0\MonthlyPayments.FirebaseRepository.pdb
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\bin\Debug\net6.0\MonthlyPayments.Domain.pdb
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.csproj.AssemblyReference.cache
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.AssemblyInfoInputs.cache
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.AssemblyInfo.cs
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.csproj.CoreCompileInputs.cache
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.csproj.CopyComplete
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\refint\MonthlyPayments.Service.dll
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\MonthlyPayments.Service.pdb
+C:\Users\ignac\source\repos\MonthlyPayments\MonthlyPayments.Service\obj\Debug\net6.0\ref\MonthlyPayments.Service.dll
