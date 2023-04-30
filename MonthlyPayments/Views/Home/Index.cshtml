@@ -10,7 +10,7 @@
     <div class="pt-2">
         <span>How much did you spend?</span>
         <form method="post" action="@Url.Action("UpdatePayment", "Home")">
-            <input type="text" name="quantity" id="quantitySpent" required/>
+            <input type="text" name="quantity" id="quantitySpent" required />
             <br>
             <label class="pt-2">
                 <input class="form-check-input" type="radio" name="isCreditCard" value="true" required> Credit card
@@ -23,11 +23,14 @@
             <button class="btn btn-outline-primary mt-2" type="submit">Add</button>
         </form>
     </div>
-    
+
     <div class="pt-5">
         <p>Payments so far:</p>
         <p><span id="paid">@Model.TotalSpent</span> kr</p>
     </div>
+
+    <button type="button" class="btn btn-outline-warning" data-toggle="modal" data-target="#paymentDetails" data-url="@Url.Action("PaymentDetails", "Home")">Details</button>
+    @await Html.PartialAsync("_PaymentDetailsPartialView")
 
     <div class="pt-5">
         <p>Last payment added:</p>

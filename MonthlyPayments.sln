@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonthlyPayments", "MonthlyP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonthlyPayments.Domain", "MonthlyPayments.Domain\MonthlyPayments.Domain.csproj", "{56794174-9944-4620-B9FA-99842A27AF47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthlyPayments.Service", "MonthlyPayments.Service\MonthlyPayments.Service.csproj", "{19D2AE05-DEB6-42F8-B89F-4A7762829D12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonthlyPayments.Service", "MonthlyPayments.Service\MonthlyPayments.Service.csproj", "{19D2AE05-DEB6-42F8-B89F-4A7762829D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthlyPayments.FirebaseRepository", "MonthlyPayments.FirebaseRepository\MonthlyPayments.FirebaseRepository.csproj", "{E0F5238D-03B0-45F5-AEF6-40086F90CE64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonthlyPayments.FirebaseRepository", "MonthlyPayments.FirebaseRepository\MonthlyPayments.FirebaseRepository.csproj", "{E0F5238D-03B0-45F5-AEF6-40086F90CE64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

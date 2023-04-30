@@ -18,7 +18,9 @@ namespace MonthlyPayments.Controllers
         {
             try
             {
-                return View(await _groceryService.GetGroceryResume());
+                var groceryResume = await _groceryService.GetGroceryResume();
+                ViewBag.Grocery = groceryResume;
+                return View(groceryResume);
             }
             catch (Exception ex)
             {
