@@ -33,6 +33,8 @@ namespace MonthlyPayments.Domain
                 CreditCard += groceryResume.CreditCard;
             else
                 CashDebit += groceryResume.CashDebit;
+
+            LastUpdate = DateTime.Now.ToString();
         }
     }
 }

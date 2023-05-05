@@ -1,4 +1,9 @@
-MonthlyPayments\bin\
-MonthlyPayments.Domain\bin\
-MonthlyPayments.FirebaseRepository\bin\
-MonthlyPayments.Service\bin\
+.vs/
+MonthlyPayments/bin/
+MonthlyPayments/obj/
+MonthlyPayments.Domain/bin/
+MonthlyPayments.Domain/obj/
+MonthlyPayments.FirebaseRepository/bin/
+MonthlyPayments.FirebaseRepository/obj/
+MonthlyPayments.Service/bin/
+MonthlyPayments.Service/obj/
